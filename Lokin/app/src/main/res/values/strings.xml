@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lokin</string>
+    <string name="title_activity_print_running_apps">printRunningApps</string>
 </resources>
